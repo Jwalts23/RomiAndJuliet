@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "encoder_test",
+			"path": "..\\..\\encoder_test"
+		},
+		{
+			"name": "pid_tuning",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

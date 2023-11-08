@@ -1,0 +1,11 @@
+double rollingAverage(float DistancePulse);
+void sortArray(double arr[]);
+double rollingMedian(float distance);
+int i;
+int k;
+double sum=0.0;
+double average=0.0;
+double median = 0.0;
+double d[5];
+double c[5];
+double e[5];
